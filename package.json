@@ -1,0 +1,21 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing in JS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "keywords": [
+    "angular",
+    "testing",
+    "javascript",
+    "mocha",
+    "karma"
+  ],
+  "author": "davyengone",
+  "license": "MIT"
+}
